@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Crystal
+  - Treasure
+  - Jar
+  - Entry
+  - Exit
+  - NonItem
+  - Sword
+  - Barrel
+  - Desert
+  - Plains
+  - Dinner
+  - Collector
+  - Slots
+  - NewItem
+  - Door
+  - Camp
+  - FrozenMountains
+  - Block
+  - FullFruit
+  - HalfFruit
+  - SliceFruit
+  - Threshold
+  - FrozenMountain
+  - Sarcophagus
+  - Sarcophagus2
+  - Coconut
+  - Weapon
+  - Skeleton
+  - Game
+  - FirstGame
+  - SecondGame
+  - ThirdGame
+  - MainRock
+  - SemiItem
+  - Axe
+  - GemBlue
+  - GemRed
+  - GemGold
+  - GemLilac
+  - GemCluster
+  - PotionBlue
+  - PotionRed
+  - PotionPink
+  - PotionPurple
+  - PickAxe
+  - KeyGrey
+  - KeyBronze
+  - KeyGold
+  - KeySilver
+  - KeyMetal
+  - WoodenChest
+  - MixUsable
+  - Tree
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

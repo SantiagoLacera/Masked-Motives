@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/EasyTransitions/Demo/TransitionDemo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/EasyTransitions/Demo/TransitionDemo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Final Scene/NeutralEnding.unity
+    guid: d4f2ca286c000467bb972a34d78ea1de
+  - enabled: 0
+    path: Assets/Final Scene/BadEnding.unity
+    guid: e9c1c8ef02a034e959b25cc9adea93b0
+  - enabled: 0
+    path: Assets/Final Scene/GoodEnding.unity
+    guid: 76a8e4d3eed6c45dda90a47f0b8d6f84
+  - enabled: 0
+    path: Assets/EasyTransitions/Demo/TransitionDemo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/EasyTransitions/Demo/TransitionDemo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Final Scene/MainMenu.unity
+    guid: 57c664f190df24830b94420686c47e8f
+  - enabled: 1
+    path: Assets/Final Scene/Main Dining.unity
+    guid: ece8ef164c9099747b42a1fc08c5603b
+  - enabled: 1
+    path: Assets/Final Scene/Dessert.unity
+    guid: d89452fde608c69448f5cd14d34f6b7b
+  - enabled: 1
+    path: Assets/Final Scene/Frozen Mountains.unity
+    guid: ad37a781b37089f4693815cad385767b
+  - enabled: 1
+    path: Assets/Final Scene/Plains.unity
+    guid: 012eeb87bf968f048b61a4fa7f59c955
+  - enabled: 1
+    path: Assets/Minigames/slide puzzle.unity
+    guid: e27c6f59cbcdc324196579a0e9847227
+  - enabled: 1
+    path: Assets/Minigames/wordle.unity
+    guid: 07f193976e9146940a14bab179443114
+  - enabled: 1
+    path: Assets/Minigames/pong.unity
+    guid: 98102bdbe6b5bc64192224fcddf878bc
+  - enabled: 1
+    path: Assets/Final Scene/CutsceneL.unity
+    guid: 815080d5d919744aaac57f0541d9648c
+  - enabled: 1
+    path: Assets/Final Scene/CutsceneN.unity
+    guid: 44085ce5156264ba8af85c03dd2d643b
+  - enabled: 1
+    path: Assets/Final Scene/CutsceneW.unity
+    guid: 2a7dde6440fbd4bc6aa4f2faaad2f0bd
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 3891de33069f1490caf3ae5588d276b3, type: 2}
